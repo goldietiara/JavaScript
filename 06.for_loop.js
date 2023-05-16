@@ -24,3 +24,12 @@ arr[0] += "lj"
 console.log(arr)
 arr[0] += "lj"
 console.log(arr)
+
+let rr = [
+    ["ryan","fadhilah"]
+    ,["odi","cantik"]
+]
+console.log(rr)
+console.log(rr[0])
+console.log(rr[0][0][rr[0][0].length-1])
+console.log(rr[1])
